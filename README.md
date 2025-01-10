@@ -1,7 +1,8 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=FF69B4&height=120&text=Jiwon's%20Infinity%20Code&animation=fadeIn&fontColor=FF1493&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=150&section=header&text=Jiwon's%20Infinity%20Code&fontSize=60&fontColor=FF1493&animation=fadeIn" />
 </div>
+
    <div style="text-align: left;"> 
    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
